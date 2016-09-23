@@ -1,0 +1,4 @@
+# Java_Demo_Collection
+JavaDemo的集合，主要作用是督促个人的技术掌握的情况。
+争取每天都写一些Java或Android方面的代码，努力提升个人的技术水平。
+在JavaDemoCollection中主要集中地是我所练习的Java代码的Demo，Android的Demo将会在AndroidDemoCollection中展示。
