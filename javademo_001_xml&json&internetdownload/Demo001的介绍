@@ -1,0 +1,17 @@
+本Demo001主要涉及到的知识点是：
+1、通过OkHttp从网络上获取网络数据
+2、Json数据的解析
+3、通过subString（）与indexOf（）去除非标准Json数据部分的干扰部分
+   result = result.substring(result.indexOf("{\"city_en"), result.indexOf(",\"update_time\""));
+4、处理AndroidStudio在控制台输出时出现的中文乱码问题
+  解决方式：
+  在java工程目录下的build.gradle添加如下代码：
+  新版gradle：
+  tasks.withType(JavaCompile) {
+      options.encoding = "UTF-8"
+  }
+
+  旧版gradle：
+  tasks.withType(Compile) {
+      options.encoding = "UTF-8"
+  }
