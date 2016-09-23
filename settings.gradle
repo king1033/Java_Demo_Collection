@@ -1,0 +1,1 @@
+include ':app', ':javademo_001_xml&json&internetdownload'
