@@ -1,5 +1,10 @@
 apply plugin: 'java'
 
+//解决 Android studio中java控制台输出中文乱码
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile files('libs/commons-beanutils-1.7.0.jar')
