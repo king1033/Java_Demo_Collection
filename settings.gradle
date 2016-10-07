@@ -1,1 +1,1 @@
-include ':app', ':javademo_001_xml&json&internetdownload'
+include ':app', ':javademo_001_xml&json&internetdownload', ':javademo_002_welcome'

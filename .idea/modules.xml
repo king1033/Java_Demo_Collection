@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java_Demo_Collection.iml" filepath="$PROJECT_DIR$/Java_Demo_Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/javademo_001_xml&amp;json&amp;internetdownload/javademo_001_xml&amp;json&amp;internetdownload.iml" filepath="$PROJECT_DIR$/javademo_001_xml&amp;json&amp;internetdownload/javademo_001_xml&amp;json&amp;internetdownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademo_002_welcome/javademo_002_welcome.iml" filepath="$PROJECT_DIR$/javademo_002_welcome/javademo_002_welcome.iml" />
     </modules>
   </component>
 </project>
