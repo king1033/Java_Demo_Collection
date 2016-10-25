@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/javademo_001_xml&amp;json&amp;internetdownload" />
             <option value="$PROJECT_DIR$/javademo_002_welcome" />
+            <option value="$PROJECT_DIR$/javademo_003_data_type" />
           </set>
         </option>
         <option name="myModules">
@@ -20,6 +21,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/javademo_001_xml&amp;json&amp;internetdownload" />
             <option value="$PROJECT_DIR$/javademo_002_welcome" />
+            <option value="$PROJECT_DIR$/javademo_003_data_type" />
           </set>
         </option>
       </GradleProjectSettings>
