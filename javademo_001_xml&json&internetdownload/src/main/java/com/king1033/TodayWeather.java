@@ -2,7 +2,8 @@ package com.king1033;
 
 /**
  * @Author:king1033
- * @Desc:创建TodayWeather实体类
+ * @Desc:
+ * 创建TodayWeather实体类
  * @Time:2016/9/23
  *
  * 创建TodayWeather实体类，需要：

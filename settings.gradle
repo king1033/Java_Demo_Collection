@@ -1,1 +1,1 @@
-include ':app', ':javademo_001_xml&json&internetdownload', ':javademo_002_welcome', ':javademo_003_data_type'
+include ':app', ':javademo_001_xml&json&internetdownload', ':javademo_002_welcome', ':javademo_003_data_type', ':javademo_004_control_process'
