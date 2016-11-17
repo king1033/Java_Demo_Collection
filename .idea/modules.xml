@@ -7,7 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/javademo_001_xml&amp;json&amp;internetdownload/javademo_001_xml&amp;json&amp;internetdownload.iml" filepath="$PROJECT_DIR$/javademo_001_xml&amp;json&amp;internetdownload/javademo_001_xml&amp;json&amp;internetdownload.iml" />
       <module fileurl="file://$PROJECT_DIR$/javademo_002_welcome/javademo_002_welcome.iml" filepath="$PROJECT_DIR$/javademo_002_welcome/javademo_002_welcome.iml" />
       <module fileurl="file://$PROJECT_DIR$/javademo_003_data_type/javademo_003_data_type.iml" filepath="$PROJECT_DIR$/javademo_003_data_type/javademo_003_data_type.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javademo_004_control_process/javademo_003_control_process.iml" filepath="$PROJECT_DIR$/javademo_004_control_process/javademo_003_control_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademo_004_control_process/javademo_004_control_process.iml" filepath="$PROJECT_DIR$/javademo_004_control_process/javademo_004_control_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademo_005_httpurlconnection/javademo_005_httpurlconnection.iml" filepath="$PROJECT_DIR$/javademo_005_httpurlconnection/javademo_005_httpurlconnection.iml" />
     </modules>
   </component>
 </project>

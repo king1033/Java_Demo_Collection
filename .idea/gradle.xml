@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/javademo_002_welcome" />
             <option value="$PROJECT_DIR$/javademo_003_data_type" />
             <option value="$PROJECT_DIR$/javademo_004_control_process" />
+            <option value="$PROJECT_DIR$/javademo_005_httpurlconnection" />
           </set>
         </option>
         <option name="myModules">
@@ -24,6 +25,7 @@
             <option value="$PROJECT_DIR$/javademo_002_welcome" />
             <option value="$PROJECT_DIR$/javademo_003_data_type" />
             <option value="$PROJECT_DIR$/javademo_004_control_process" />
+            <option value="$PROJECT_DIR$/javademo_005_httpurlconnection" />
           </set>
         </option>
       </GradleProjectSettings>
